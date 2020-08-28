@@ -1,2 +1,3 @@
 # Simple_App_Game
-Simple App Game
+
+Un juego simple desarrollado nativamente en Android.
